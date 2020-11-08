@@ -8,12 +8,14 @@
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="max-width:100%;">
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" style="max-width:100%;">
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="max-width:100%;">
-<hr></hr>
-📫 How to reach me:
+
+- 📫 How to reach me
 [![RomanVoznyy e-mail](https://img.shields.io/badge/Gmail-roman.voznyy.52%40gmail.com-red?style=plastic&logo=gmail&link=mailto:roman.voznyy.52@gmail.com)](mailto:roman.voznyy.52@gmail.com)
 
-<hr></hr>
-![Github stats](https://github-readme-stats.vercel.app/api?username=RomanVoznyy)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RomanVoznyy)](https://github.com/RomanVoznyy/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanVoznyy&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Codewars](https://www.codewars.com/users/RomanVoznyy/badges/micro)
 
